@@ -3,6 +3,10 @@
     "projectId": "od86rh",
     "baseUrl": "https://ambev-stakeholders-front.azurewebsites.net",
     "viewportWidth": 1440,
-    "viewportHeight": 900
+    "viewportHeight": 900,
+    "env": {
+      "API_KEY": "https://as-mariapi-dev-eastus.azurewebsites.net/"
+    }
     
-}
+  }
+  
